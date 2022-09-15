@@ -54,5 +54,10 @@ namespace Veiculo
             Veiculos principal = new Veiculos();
             principal.Show();
         }
+
+        private void txtEixo_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

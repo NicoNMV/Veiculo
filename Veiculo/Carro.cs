@@ -48,7 +48,7 @@ namespace Veiculo
         public override string ImprimeDados()
         {
             String s = String.Empty;
-            s = String.Concat("Ano: ", this.Ano, "\r\n", this.Marca, "", this.Modelo, "", this.Cor, "", this.Placa, "", this.Chassis, "", this.Numporta, "", this.Espacomala, "", this.Combustivel);
+            s = String.Concat("Informações do Carro", "\r\n", "\r\n", "Ano: ", this.Ano, "\r\n", "Marca: ", this.Marca, "\r\n", "Modelo: ", this.Modelo, "\r\n", "Cor: ", this.Cor, "\r\n", "Placa: ", this.Placa, "\r\n", "Chassis: ", this.Chassis, "\r\n", "Número de Portas: ", this.Numporta, "\r\n", "Espaço da Mala: ", this.Espacomala, "\r\n", "Combustível: ", this.Combustivel);
             return s;
         }
     }
