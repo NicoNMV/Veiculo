@@ -1,0 +1,13 @@
+T:\2 ETIM DS\2ETIMDS - NICOLAS E MARIA EDUARDA\Veiculo\Veiculo\obj\Debug\Veiculo.csproj.AssemblyReference.cache
+T:\2 ETIM DS\2ETIMDS - NICOLAS E MARIA EDUARDA\Veiculo\Veiculo\obj\Debug\Veiculo.csproj.SuggestedBindingRedirects.cache
+T:\2 ETIM DS\2ETIMDS - NICOLAS E MARIA EDUARDA\Veiculo\Veiculo\obj\Debug\Veiculo.Veiculos.resources
+T:\2 ETIM DS\2ETIMDS - NICOLAS E MARIA EDUARDA\Veiculo\Veiculo\obj\Debug\Veiculo.Form2.resources
+T:\2 ETIM DS\2ETIMDS - NICOLAS E MARIA EDUARDA\Veiculo\Veiculo\obj\Debug\Veiculo.Form3.resources
+T:\2 ETIM DS\2ETIMDS - NICOLAS E MARIA EDUARDA\Veiculo\Veiculo\obj\Debug\Veiculo.Properties.Resources.resources
+T:\2 ETIM DS\2ETIMDS - NICOLAS E MARIA EDUARDA\Veiculo\Veiculo\obj\Debug\Veiculo.csproj.GenerateResource.cache
+T:\2 ETIM DS\2ETIMDS - NICOLAS E MARIA EDUARDA\Veiculo\Veiculo\obj\Debug\Veiculo.csproj.CoreCompileInputs.cache
+T:\2 ETIM DS\2ETIMDS - NICOLAS E MARIA EDUARDA\Veiculo\Veiculo\bin\Debug\Veiculo.exe.config
+T:\2 ETIM DS\2ETIMDS - NICOLAS E MARIA EDUARDA\Veiculo\Veiculo\bin\Debug\Veiculo.exe
+T:\2 ETIM DS\2ETIMDS - NICOLAS E MARIA EDUARDA\Veiculo\Veiculo\bin\Debug\Veiculo.pdb
+T:\2 ETIM DS\2ETIMDS - NICOLAS E MARIA EDUARDA\Veiculo\Veiculo\obj\Debug\Veiculo.exe
+T:\2 ETIM DS\2ETIMDS - NICOLAS E MARIA EDUARDA\Veiculo\Veiculo\obj\Debug\Veiculo.pdb
