@@ -20,9 +20,15 @@ namespace Veiculo
         }
         public Carro(int ano, string marca, string modelo, string cor, string placa, string chassis, int numporta, int espacomala, string combustivel)
         {
-            this.numporta = numporta;
-            this.espacomala = espacomala;
-            this.combustivel = combustivel;
+            this.Ano = ano;
+            this.Marca = marca;
+            this.Modelo = modelo;
+            this.Cor = cor;
+            this.Placa = placa;
+            this.Chassis = chassis;
+            this.Numporta = numporta;
+            this.Espacomala = espacomala;
+            this.Combustivel = combustivel;
         }
         public int Numporta
         {
@@ -42,7 +48,7 @@ namespace Veiculo
         public override string ImprimeDados()
         {
             String s = String.Empty;
-            s = String.Concat(this.Ano, "", this.Marca, "", this.Modelo, "", this.Cor, "", this.Placa, "", this.Chassis, "", this.Numporta, "", this.Espacomala, "", this.Combustivel);
+            s = String.Concat("Ano: ", this.Ano, "\r\n", this.Marca, "", this.Modelo, "", this.Cor, "", this.Placa, "", this.Chassis, "", this.Numporta, "", this.Espacomala, "", this.Combustivel);
             return s;
         }
     }

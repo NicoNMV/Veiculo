@@ -20,9 +20,15 @@ namespace Veiculo
         }
         public Caminhao(int ano, string marca, string modelo, string cor, string placa, string chassis, string carreta, string cabine, int eixo)
         {
-            this.carreta = carreta;
-            this.cabine = cabine;
-            this.eixo = eixo;
+            this.Ano = ano;
+            this.Marca = marca;
+            this.Modelo = modelo;
+            this.Cor = cor;
+            this.Placa = placa;
+            this.Chassis = chassis;
+            this.Carreta = carreta;
+            this.Cabine = cabine;
+            this.Eixo = eixo;
         }
         public string Carreta
         {

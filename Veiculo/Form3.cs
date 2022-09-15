@@ -51,7 +51,7 @@ namespace Veiculo
         private void btnVoltar_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Form principal = new Form();
+            Veiculos principal = new Veiculos();
             principal.Show();
         }
     }

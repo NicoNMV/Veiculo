@@ -11,3 +11,15 @@ T:\2 ETIM DS\2ETIMDS - NICOLAS E MARIA EDUARDA\Veiculo\Veiculo\bin\Debug\Veiculo
 T:\2 ETIM DS\2ETIMDS - NICOLAS E MARIA EDUARDA\Veiculo\Veiculo\bin\Debug\Veiculo.pdb
 T:\2 ETIM DS\2ETIMDS - NICOLAS E MARIA EDUARDA\Veiculo\Veiculo\obj\Debug\Veiculo.exe
 T:\2 ETIM DS\2ETIMDS - NICOLAS E MARIA EDUARDA\Veiculo\Veiculo\obj\Debug\Veiculo.pdb
+C:\Users\dudin\Documents\GitHub\Veiculo\Veiculo\bin\Debug\Veiculo.exe.config
+C:\Users\dudin\Documents\GitHub\Veiculo\Veiculo\bin\Debug\Veiculo.exe
+C:\Users\dudin\Documents\GitHub\Veiculo\Veiculo\bin\Debug\Veiculo.pdb
+C:\Users\dudin\Documents\GitHub\Veiculo\Veiculo\obj\Debug\Veiculo.csprojAssemblyReference.cache
+C:\Users\dudin\Documents\GitHub\Veiculo\Veiculo\obj\Debug\Veiculo.Veiculos.resources
+C:\Users\dudin\Documents\GitHub\Veiculo\Veiculo\obj\Debug\Veiculo.Form2.resources
+C:\Users\dudin\Documents\GitHub\Veiculo\Veiculo\obj\Debug\Veiculo.Form3.resources
+C:\Users\dudin\Documents\GitHub\Veiculo\Veiculo\obj\Debug\Veiculo.Properties.Resources.resources
+C:\Users\dudin\Documents\GitHub\Veiculo\Veiculo\obj\Debug\Veiculo.csproj.GenerateResource.cache
+C:\Users\dudin\Documents\GitHub\Veiculo\Veiculo\obj\Debug\Veiculo.csproj.CoreCompileInputs.cache
+C:\Users\dudin\Documents\GitHub\Veiculo\Veiculo\obj\Debug\Veiculo.exe
+C:\Users\dudin\Documents\GitHub\Veiculo\Veiculo\obj\Debug\Veiculo.pdb
